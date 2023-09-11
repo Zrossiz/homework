@@ -1,0 +1,22 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "homework 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zrossiz/homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zrossiz/homework/issues"
+  },
+  "homepage": "https://github.com/Zrossiz/homework#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
